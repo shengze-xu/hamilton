@@ -6,4 +6,7 @@
 
 [Havard slides 2021] [Physics-Informed Hamiltonian Neural Networks](https://scholar.harvard.edu/files/marios_matthaiakis/files/mlinastronomy_pinns_chile2021.pdf)
 
+[Arxiv 2024] [Separable Hamiltonian Neural Networks](https://arxiv.org/pdf/2309.01069)
+
 [Arxiv 2024] [Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answerin][https://arxiv.org/pdf/2410.04415]
+
