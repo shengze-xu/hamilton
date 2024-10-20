@@ -20,5 +20,5 @@
 
 [Arxiv 2024] [Separable Hamiltonian Neural Networks](https://arxiv.org/pdf/2309.01069)
 
-[Arxiv 2024] [Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answerin][https://arxiv.org/pdf/2410.04415]
+[Arxiv 2024] [Optimizing AI Reasoning: A Hamiltonian Dynamics Approach to Multi-Hop Question Answerin](https://arxiv.org/pdf/2410.04415)
 
