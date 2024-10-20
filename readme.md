@@ -1,6 +1,6 @@
 # Hamilton & Neural Networks
 
-[NeurIPS 2019] [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563) [Blog](greydanus.github.io/2019/05/15/hamiltonian-nns/)
+[NeurIPS 2019] [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563) [Blog](https://greydanus.github.io/2019/05/15/hamiltonian-nns/)
 
 [Physical Review E 2022] [Hamiltonian neural networks for solving equations of motion](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.065305)
 
