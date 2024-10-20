@@ -4,6 +4,8 @@
 
 [Physica A 1995] [The Hamilton neural network model](https://www.sciencedirect.com/science/article/pii/037843719400244N)
 
+[NeurIPS 1995] [Gradient and Hamiltonian Dynamics Applied to Learning in Neural Networks](https://proceedings.neurips.cc/paper_files/paper/1995/file/e17184bcb70dcf3942c54e0b537ffc6d-Paper.pdf)
+
 [NeurIPS 2019] [Hamiltonian Neural Networks](https://arxiv.org/pdf/1906.01563) [Blog](https://greydanus.github.io/2019/05/15/hamiltonian-nns/)
 
 [Physical Review E 2022] [Hamiltonian neural networks for solving equations of motion](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.065305)
